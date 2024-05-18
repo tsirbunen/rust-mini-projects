@@ -1,0 +1,1 @@
+/Users/satu/HOBBY/RUST/rust-mini-projects/simple_calculator/target/debug/simple_calculator: /Users/satu/HOBBY/RUST/rust-mini-projects/simple_calculator/src/calculator.rs /Users/satu/HOBBY/RUST/rust-mini-projects/simple_calculator/src/main.rs /Users/satu/HOBBY/RUST/rust-mini-projects/simple_calculator/src/operator.rs
